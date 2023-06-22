@@ -1,0 +1,85 @@
+[
+  {
+    "id": "mon_gfl_ripper",
+    "type": "MONSTER",
+    "name": "ripper",
+    "description":
+    "A ripper from girls frontline. Only yet can melee attack.",
+	"default_faction": "sangvis_ferri",
+    "bodytype": "human",
+	"species": [ "ROBOT" ],	
+	"categories": [ "CLASSIC","WILDLIFE","NULL" ],
+	"volume": "50 L",
+	"weight": "52 kg",
+    "hp": 48,
+    "speed": 45,
+    "material": [ "steel" ],
+    "symbol": "@",
+    "color": "pink",
+	"aggression": 100,
+    "morale": 100,
+    "melee_skill": 3,
+    "melee_dice": 5,
+    "melee_dice_sides": 6,
+    "dodge": 2,
+    "vision_day": 20,
+    "vision_night": 1,
+	"revert_to_itype": "bot_gfl_ripper",
+    "death_drops": { "subtype": "collection", "groups": [ [ "default_ripper_death_drops", 50 ] ] },
+    "death_function": { "corpse_type": "BROKEN" },
+    "flags": [
+      "SEES",
+	  "WARM",
+	  "ELECTRONIC",
+	  "COLDPROOF",
+	  "LOUDMOVES",
+	  "CAN_OPEN_DOORS",
+	  "PATH_AVOID_DANGER_1",
+      "HEARS",
+      "SMELLS"
+    ]
+  },
+  {
+    "id": "bot_gfl_ripper",
+    "type": "TOOL",
+    "name": "ripper",
+    "description":
+    "A ripper from girls frontline. Only yet can melee attack.",
+	"volume": "50 L",
+	"weight": "52 kg",
+    "price": 6200,
+    "price_postapoc": 62,
+	"hp": 26,
+	"speed": 100,
+	"to_hit": -3,
+    "bashing": 5,
+    "material": [ "steel","plastic" ],
+    "symbol": ";",
+    "color": "pink",
+	"use_action": {
+	  "type": "place_monster",
+      "monster_id": "mon_gfl_ripper",
+      "moves": 100,
+	  "is_pet": true
+	}  
+  },
+  {
+    "id": "broken_gfl_ripper",
+    "type": "GENERIC",
+    "name": "broken ripper",
+    "description":
+    "A broken ripper from girls frontline. No more it can moves.",
+	"categories": "other",
+	"volume": "50 L",
+	"weight": "52 kg",
+    "material": [ "steel" ],
+    "symbol": ",",
+    "color": "pink",
+	"price": 1000,
+    "price_postapoc": 10,
+    "flags": [
+      "TRADER_AVOID",
+	  "NO_REPAIR"
+    ]
+  }
+]
