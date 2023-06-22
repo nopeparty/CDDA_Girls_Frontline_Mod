@@ -4,7 +4,7 @@
     "type": "MONSTER",
     "name": "ripper",
     "description":
-    "A ripper from girls frontline. Only yet can melee attack.",
+    "It looks like a girl, but it's a tactical doll that put into combat and reconnaissance. It's a standard operational unit of Sangvis Ferri Industrial Manufacturing Company. It can only do melee attacks yet.",
 	"default_faction": "sangvis_ferri",
     "bodytype": "human",
 	"species": [ "ROBOT" ],	
@@ -44,7 +44,7 @@
     "type": "TOOL",
     "name": "ripper",
     "description":
-    "A ripper from girls frontline. Only yet can melee attack.",
+    "It looks like a girl, but it's a tactical doll that put into combat and reconnaissance. It's a standard operational unit of Sangvis Ferri Industrial Manufacturing Company. It can only do melee attacks yet.",
 	"volume": "50 L",
 	"weight": "52 kg",
     "price": 6200,
@@ -68,7 +68,7 @@
     "type": "GENERIC",
     "name": "broken ripper",
     "description":
-    "A broken ripper from girls frontline. No more it can moves.",
+    "A broken ripper. No more it can moves.",
 	"categories": "other",
 	"volume": "50 L",
 	"weight": "52 kg",
