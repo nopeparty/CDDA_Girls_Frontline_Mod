@@ -1,0 +1,9 @@
+{
+  "type": "MOD_INFO",
+  "ident": "Girls_frontline",
+  "name": "Girls frontline enemies",
+  "authors": [ "nopeparty" ],
+  "description": "Adds some monsters from girls' frontline. Pretty much unbalance and chaotic. Working in progress.",
+  "category": "creatures",
+  "dependencies": ["bn"]
+}
