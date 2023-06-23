@@ -48,6 +48,7 @@
     "flags": [
       "SEES",
 	  "WARM",
+	  "CANPLAY",
 	  "ELECTRONIC",
 	  "COLDPROOF",
 	  "LOUDMOVES",

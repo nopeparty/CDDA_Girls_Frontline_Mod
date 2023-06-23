@@ -3,8 +3,7 @@
     "type": "MONSTER_FACTION",
     "name": "sangvis_ferri",
     "friendly": [ "sangvis_ferri" ],
-    "neutral": [ "small_animal","fish" ],
-	"hate": [ "human","player" ],
-    "by_mood": [  ]
+    "neutral": [ "animal","fish" ],
+	"hate": [ "human","player" ]
   }
 ]

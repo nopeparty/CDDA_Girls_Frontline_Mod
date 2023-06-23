@@ -1,0 +1,33 @@
+[
+  {
+    "type": "AMMO",
+    "id": "rparticle",
+    "price": 20,
+    "price_postapoc": 1000,
+    "name": { "str": "rippergun particle" },
+    "symbol": "=",
+    "color": "pink",
+    "description": "Not yet..",
+    "material": [ "steel", "powder" ],
+    "volume": "250 ml",
+    "weight": "18 g",
+    "ammo_type": "rparticle",
+    "damage": { "damage_type": "bullet", "amount": 4, "armor_penetration": 0 },
+    "range": 3,
+    "count": 30,
+    "stack_size": 30,
+    "effects": [  ],
+	"loudness": 9,
+    "flags": [ "UNRECOVERABLE" ],
+    "fuel": {
+      "//": "Not yet.",
+      "energy": 50
+    }
+  },
+  {
+    "type": "ammunition_type",
+    "id": "rparticle",
+    "name": "rippergun particle",
+    "default": "rparticle"
+  }
+]
