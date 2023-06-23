@@ -1,0 +1,34 @@
+[
+  {
+    "id": "gfl_rippergun",
+    "copy-from": "rifle_energy",
+    "type": "GUN",
+    "reload_noise_volume": 6,
+    "color": "light_gray",
+    "name": { "str": "ripper gun" },
+    "description": "The energy smg used by the ripper.",	
+    "price": 2000,
+    "price_postapoc": 10,
+    "material": [ "steel" ],
+    "skill": "smg",
+    "ammo": "rparticle",
+    "weight": "1600 g",
+    "volume": "1250 ml",
+    "bashing": 5,
+    "range": 3,
+    "ranged_damage": { "damage_type": "heat", "amount": 3  },
+	"ammo_effects": [ "DRAW_AS_LINE" ],
+    "dispersion": 150,
+    "durability": 5,
+    "clip_size": 26,
+    "reload": 20,
+	"flags": [
+	"NEVER_JAMS",
+	"RELOAD_AND_SHOOT",
+	"NO_SALVAGE",
+	"NO_REPAIR",
+	"NON_FOULING",
+	"UNBREAKABLE_MELEE"
+	]
+  }
+]
