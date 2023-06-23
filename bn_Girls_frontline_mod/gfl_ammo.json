@@ -12,16 +12,15 @@
     "volume": "250 ml",
     "weight": "18 g",
     "ammo_type": "rparticle",
-    "damage": { "damage_type": "bullet", "amount": 3, "armor_penetration": 0 },
+    "damage": { "damage_type": "bullet", "amount": 4, "armor_penetration": 0 },
     "range": 3,
-    "count": 3,
+    "count": 30,
     "effects": [  ],
 	"loudness": 9,
     "flags": [ "UNRECOVERABLE" ],
     "fuel": {
-      "//": "Compressed gaseous hydrogen has 9.2 MJ/L.  This stuff has a very high energy density but is also bulky and explosive.",
-      "energy": 5000,
-      "explosion_data": { "chance_hot": 2, "chance_cold": 2, "factor": 1, "fiery": true, "size_factor": 0.15 }
+      "//": "Not yet.",
+      "energy": 50
     }
   },
   {
