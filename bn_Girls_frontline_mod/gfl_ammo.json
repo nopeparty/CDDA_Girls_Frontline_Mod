@@ -12,7 +12,7 @@
     "volume": "250 ml",
     "weight": "18 g",
     "ammo_type": "rparticle",
-    "damage": { "damage_type": "bullet", "amount": 4, "armor_penetration": 0 },
+    "damage": { "damage_type": "heat", "amount": 4, "armor_penetration": 3 },
     "range": 3,
     "count": 30,
     "effects": [  ],

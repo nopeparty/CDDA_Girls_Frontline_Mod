@@ -64,7 +64,7 @@
     "name": "free ripper",
 	"copy-from": "mon_gfl_ripper",
     "description":
-    "It looks like a girl, but it's a dummy doll that put into combat and reconnaissance. But it's now has an free will. It's equipped with a submachine gun and it will shoot you if you get close.",
+    "It looks like a girl, but it's a dummy doll that put into combat and reconnaissance. But it's now separated from where it originally belonged. It's equipped with a submachine gun, and will start shooting when anyone gets close.",
 	"default_faction": "free_ferri",
 	"hp": 48,
 	"speed": 120,
@@ -74,7 +74,7 @@
 	"morale": 100,
 	"aggro_character": false,
 	"regen_morale": true,
-	"anger_triggers": [ "PLAYER_CLOSE","FRIEND_DIED","FRIEND_ATTACKED" ],
+	"anger_triggers": [ "PLAYER_CLOSE" ],
 	"revert_to_itype": "bot_gfl_ripper",
 	"starting_ammo": { "rparticle": 2002 },
 	"flags": [
