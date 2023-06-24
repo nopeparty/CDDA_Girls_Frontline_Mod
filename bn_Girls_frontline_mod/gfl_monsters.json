@@ -52,9 +52,42 @@
 	  "ELECTRONIC",
 	  "COLDPROOF",
 	  "LOUDMOVES",
+	  "SWIMS",
 	  "CAN_OPEN_DOORS",
       "HEARS",
       "SMELLS"
+    ]
+  },
+  {
+    "id": "mon_gfl_free_ripper",
+    "type": "MONSTER",
+    "name": "free ripper",
+	"copy-from": "mon_gfl_ripper",
+    "description":
+    "It looks like a girl, but it's a dummy doll that put into combat and reconnaissance. But it's now has an free will. It's equipped with a submachine gun and it will shoot you if you get close.",
+	"default_faction": "free_ferri",
+	"hp": 48,
+	"speed": 120,
+    "color": "magenta",
+	"regenerates": 3,
+	"aggression": 0,
+	"morale": 100,
+	"aggro_character": false,
+	"regen_morale": true,
+	"anger_triggers": [ "PLAYER_CLOSE","FRIEND_DIED","FRIEND_ATTACKED" ],
+	"revert_to_itype": "bot_gfl_ripper",
+	"starting_ammo": { "rparticle": 2002 },
+	"flags": [
+      "SEES",
+	  "WARM",
+	  "CANPLAY",
+	  "ELECTRONIC",
+	  "COLDPROOF",
+	  "SWIMS",
+	  "CAN_OPEN_DOORS",
+      "HEARS",
+      "SMELLS",  
+      "PUSH_MON"
     ]
   },
   {
@@ -74,7 +107,7 @@
     "color": "pink",
 	"use_action": {
 	  "type": "place_monster",
-      "monster_id": "mon_gfl_ripper",
+      "monster_id": "mon_gfl_free_ripper",
       "moves": 100,
 	  "is_pet": true
 	}
@@ -85,6 +118,25 @@
     "name": "broken ripper",
     "description":
     "A broken ripper. No more it can moves.",
+	"categories": "other",
+	"volume": "50 L",
+	"weight": "52 kg",
+    "material": [ "steel" ],
+    "symbol": ",",
+    "color": "pink",
+	"price": 1000,
+    "price_postapoc": 10,
+    "flags": [
+      "TRADER_AVOID",
+	  "NO_REPAIR"
+    ]
+  },
+  {
+    "id": "broken_gfl_free_ripper",
+    "type": "GENERIC",
+    "name": "broken free ripper",
+    "description":
+    "A broken freedom ripper. No more it can moves.",
 	"categories": "other",
 	"volume": "50 L",
 	"weight": "52 kg",
