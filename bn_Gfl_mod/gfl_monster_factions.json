@@ -1,0 +1,17 @@
+[
+  {
+    "type": "MONSTER_FACTION",
+    "name": "sangvis_ferri",
+    "friendly": [ "sangvis_ferri" ],
+    "neutral": [ "small_animal","fish" ],
+	"hate": [ "human","player" ],
+    "by_mood": [  ]
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "free_ferri",
+    "friendly": [ "free_ferri" ],
+    "neutral": [ "animal","fish","human","player" ],
+	"hate": [ "sangvis_ferri","zombie","blob","nether","cult","insect" ]
+  }
+]
