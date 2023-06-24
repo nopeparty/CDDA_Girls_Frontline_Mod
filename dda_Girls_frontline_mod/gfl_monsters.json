@@ -11,8 +11,8 @@
 	"categories": [ "CLASSIC","WILDLIFE","NULL" ],
 	"volume": "50 L",
 	"weight": "52 kg",
-    "hp": 48,
-    "speed": 45,
+    "hp": 51,
+    "speed": 51,
     "material": [ "steel" ],
     "symbol": "@",
     "color": "pink",
@@ -25,8 +25,8 @@
     "vision_day": 20,
     "vision_night": 1,
 	"revert_to_itype": "bot_gfl_ripper",
-    "death_drops": { "item": "leotard", "prob": 50 },
-    "death_function": { "corpse_type": "BROKEN" },
+    "death_drops": { "subtype": "collection", "groups": [ [ "default_ripper_death_drops", 50 ] ] },
+    "death_function": { "corpse_type":"BROKEN" },
 	"starting_ammo": { "rparticle": 200 },
 	"special_attacks": [
       {
@@ -34,9 +34,9 @@
         "cooldown": 0,
         "gun_type": "gfl_rippergun",
 		"ammo_type": "rparticle",
-        "fake_skills": [ [ "gun", 6 ], [ "smg", 6 ] ],
+        "fake_skills": [ [ "gun", 3 ], [ "smg", 3 ] ],
         "fake_dex": 5,
-        "ranges": [ [ 0, 3, "DEFAULT" ] ],
+        "ranges": [ [ 0, 5, "DEFAULT" ] ],
         "require_targeting_player": false,
         "require_targeting_npc": false,
         "require_targeting_monster": false,
@@ -52,9 +52,40 @@
 	  "ELECTRONIC",
 	  "COLDPROOF",
 	  "LOUDMOVES",
+	  "SWIMS",
 	  "CAN_OPEN_DOORS",
       "HEARS",
       "SMELLS"
+    ]
+  },
+  {
+    "id": "mon_gfl_free_ripper",
+    "type": "MONSTER",
+    "name": "free ripper",
+	"copy-from": "mon_gfl_ripper",
+    "description":
+    "It looks like a girl, but it's a dummy doll that put into combat and reconnaissance. But it's now separated from where it originally belonged. It's equipped with a submachine gun, and will start shooting when anyone gets close.",
+	"default_faction": "free_ferri",
+	"hp": 51,
+	"speed": 51,
+    "color": "magenta",
+	"aggression": 0,
+	"morale": 100,
+	"regen_morale": true,
+	"anger_triggers": [ "PLAYER_CLOSE" ],
+	"revert_to_itype": "bot_gfl_ripper",
+	"starting_ammo": { "rparticle": 2002 },
+	"flags": [
+      "SEES",
+	  "WARM",
+	  "CANPLAY",
+	  "ELECTRONIC",
+	  "COLDPROOF",
+	  "SWIMS",
+	  "CAN_OPEN_DOORS",
+      "HEARS",
+      "SMELLS",  
+      "PUSH_MON"
     ]
   },
   {
@@ -74,7 +105,7 @@
     "color": "pink",
 	"use_action": {
 	  "type": "place_monster",
-      "monster_id": "mon_gfl_ripper",
+      "monster_id": "mon_gfl_free_ripper",
       "moves": 100,
 	  "is_pet": true
 	}
@@ -85,6 +116,25 @@
     "name": "broken ripper",
     "description":
     "A broken ripper. No more it can moves.",
+	"categories": "other",
+	"volume": "50 L",
+	"weight": "52 kg",
+    "material": [ "steel" ],
+    "symbol": ",",
+    "color": "pink",
+	"price": 1000,
+    "price_postapoc": 10,
+    "flags": [
+      "TRADER_AVOID",
+	  "NO_REPAIR"
+    ]
+  },
+  {
+    "id": "broken_gfl_free_ripper",
+    "type": "GENERIC",
+    "name": "broken free ripper",
+    "description":
+    "A broken freedom ripper. No more it can moves.",
 	"categories": "other",
 	"volume": "50 L",
 	"weight": "52 kg",
