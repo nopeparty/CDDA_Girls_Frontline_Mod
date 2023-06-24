@@ -1,7 +1,7 @@
 [
   {
     "id": "gfl_rippergun",
-    "copy-from": "rifle_energy",
+    "copy-from": "smg_base",
     "type": "GUN",
     "reload_noise_volume": 6,
     "color": "light_gray",
@@ -15,11 +15,11 @@
     "weight": "1600 g",
     "volume": "1250 ml",
     "bashing": 5,
-    "range": 3,
-    "ranged_damage": { "damage_type": "bullet", "amount": 3  },
+    "range": 5,
+    "ranged_damage": { "damage_type": "bullet", "amount": 5  },
 	"ammo_effects": [ "DRAW_AS_LINE" ],
-    "dispersion": 150,
-    "durability": 5,
+    "dispersion": 200,
+    "durability": 9,
     "clip_size": 26,
     "reload": 20,
 	"ups_charges": 0,
@@ -27,8 +27,6 @@
 	"NEVER_JAMS",
 	"RELOAD_AND_SHOOT",
 	"NO_SALVAGE",
-	"USE_UPS",
-	"NO_REPAIR",
 	"NON_FOULING",
 	"UNBREAKABLE_MELEE"
 	]
