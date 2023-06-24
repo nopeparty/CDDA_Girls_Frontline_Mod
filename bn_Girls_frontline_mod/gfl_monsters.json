@@ -67,7 +67,7 @@
     "It looks like a girl, but it's a dummy doll that put into combat and reconnaissance. But it's now separated from where it originally belonged. It's equipped with a submachine gun, and will start shooting when anyone gets close.",
 	"default_faction": "free_ferri",
 	"hp": 48,
-	"speed": 120,
+	"speed": 45,
     "color": "magenta",
 	"regenerates": 3,
 	"aggression": 0,
