@@ -1,9 +1,0 @@
-[
-  {
-    "type": "item_group",
-    "subtype": "collection",
-    "id": "default_ripper_death_drops",
-    "entries": [ 
-{ "item": "leotard", "prob": 50 } ]
-  }
-]
