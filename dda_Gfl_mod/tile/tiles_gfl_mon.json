@@ -39,6 +39,11 @@
 		    { "weight": 1, "sprite": 2 } ],
 		      "rotates": false
 		},
+		{ "id": "corpse_mon_gfl_ripper",   
+		  "fg": [
+		    { "weight": 1, "sprite": 2 } ],
+		      "rotates": false
+		},
 		
 		{ "id": "mon_gfl_free_ripper",
           "fg": [
@@ -50,11 +55,22 @@
 		    { "weight": 1, "sprite": 2 } ],
 		      "rotates": false
 		},
+		{ "id": "corpse_mon_gfl_free_ripper",   
+		  "fg": [
+		    { "weight": 1, "sprite": 2 } ],
+		      "rotates": false
+		},
+		
 		{ "id": "bot_gfl_ripper",
           "fg": [
 		    { "weight": 1, "sprite": 0 },
 			{ "weight": 1, "sprite": 1 }
-		] }
+		] },
+		{ "id": "corpse_bot_gfl_ripper",   
+		  "fg": [
+		    { "weight": 1, "sprite": 2 } ],
+		      "rotates": false
+		}
       ]		
     }
   ]
