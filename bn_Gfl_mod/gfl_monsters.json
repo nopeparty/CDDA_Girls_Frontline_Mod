@@ -13,7 +13,7 @@
 	"weight": "52 kg",
     "hp": 51,
     "speed": 51,
-    "material": [ "steel" ],
+    "material": [ "flesh" ],
     "symbol": "@",
     "color": "pink",
 	"aggression": 100,
@@ -22,11 +22,12 @@
     "melee_dice": 5,
     "melee_dice_sides": 6,
     "dodge": 2,
+	"harvest": "mon_broken_ripper",
     "vision_day": 20,
     "vision_night": 1,
 	"revert_to_itype": "bot_gfl_ripper",
     "death_drops": { "subtype": "collection", "groups": [ [ "default_ripper_death_drops", 50 ] ] },
-    "death_function": [ "BROKEN" ],
+    "death_function": [ "NORMAL" ],
 	"starting_ammo": { "rparticle": 200 },
 	"special_attacks": [
       {
@@ -48,6 +49,7 @@
     "flags": [
       "SEES",
 	  "WARM",
+	  "BLEED",
 	  "CANPLAY",
 	  "ELECTRONIC",
 	  "COLDPROOF",

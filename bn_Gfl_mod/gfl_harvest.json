@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mon_broken_ripper",
+    "type": "harvest",
+    "message": "You search for any android hardware in what's left of this broken dummy.",
+    "entries": [
+	  { "drop": "ai_module", "base_num": [ 1, 2 ], "scale_num": [ 0.2, 0.6 ], "type": "bionic_group" },
+      { "drop": "android_arms", "base_num": [ 1, 2 ], "scale_num": [ 0.2, 0.6 ], "max": 2, "type": "flesh" },
+      { "drop": "android_legs", "base_num": [ 1, 2 ], "scale_num": [ 0.2, 0.6 ], "max": 2, "type": "flesh" },
+      { "drop": "android_chassis", "base_num": [ 1, 2 ], "scale_num": [ 0.2, 0.6 ], "max": 5, "type": "bone" },
+	  { "drop": "gun_module", "base_num": [ 0, 1 ], "scale_num": [ 0.2, 0.6 ], "max": 3, "type": "bionic_group" },
+      { "drop": "plut_cell", "base_num": [ 0, 2 ], "scale_num": [ 0.2, 0.6 ], "max": 2, "type": "bionic_group" },
+      { "drop": "targeting_module", "base_num": [ 0, 2 ], "scale_num": [ 0.2, 0.6 ], "max": 2, "type": "bionic_group" },
+      { "drop": "pathfinding_module", "base_num": [ 0, 2 ], "scale_num": [ 0.2, 0.6 ], "max": 2, "type": "bionic_group" },
+      { "drop": "memory_module", "base_num": [ 1, 2 ], "max": 2, "type": "bionic_group" },
+	  { "drop": "cable", "base_num": [ 1, 3 ], "scale_num": [ 0.2, 0.6 ], "max": 8, "type": "flesh" },
+      { "drop": "scrap", "base_num": [ 1, 5 ], "scale_num": [ 0.3, 0.7 ], "max": 12, "type": "bone" }
+    ]
+  }
+]
