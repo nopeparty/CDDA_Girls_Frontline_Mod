@@ -5,5 +5,5 @@
   "authors": [ "nopeparty" ],
   "description": "Adds some monsters from girls' frontline. Pretty much unbalance and chaotic. Working in progress.",
   "category": "creatures",
-  "dependencies": ["dda"]
+  "dependencies": [ "dda" ]
 }
