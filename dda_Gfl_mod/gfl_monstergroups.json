@@ -5,9 +5,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   }
   ,{
@@ -16,13 +16,13 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-      { "monster" : "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster" : "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster" : "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster" : "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster" : "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster" : "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster" : "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster" : "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   }
   ,{
@@ -31,9 +31,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   }
   ,{
@@ -42,9 +42,9 @@
 	"default": "mon_zombie",
 	
     "monsters":[
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   }
   ,{
@@ -53,9 +53,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [ 
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
 	]
   }
   ,{
@@ -64,9 +64,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
 	]
   }  
    ,{
@@ -75,9 +75,9 @@
 	"default": "mon_zombie",
 	
     "monsters" : [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   }
   ,{
@@ -86,9 +86,9 @@
 	"default": "mon_zombie",
 	
     "monsters" : [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   
@@ -99,9 +99,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -110,9 +110,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -121,9 +121,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -132,9 +132,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -143,9 +143,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -154,9 +154,9 @@
 	
     "name": "GROUP_ZOMBIE",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -165,9 +165,9 @@
 	
     "name": "GROUP_ZOMBIE_GASSTATION",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -177,9 +177,9 @@
 	
     "default": "mon_feral_human_crowbar",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -189,9 +189,9 @@
     "default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -201,9 +201,9 @@
     "default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -213,9 +213,9 @@
 	
     "//": "Normalized to 1000",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -225,9 +225,9 @@
     "//": "+30% cops, much higher chance of paramilitary people",
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -237,9 +237,9 @@
     "//": "100% cops, 0% civilians",
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -249,9 +249,9 @@
     "default": "mon_zombie",
     "//": "+13% fast",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -261,9 +261,9 @@
     "default": "mon_zombie",
     "//": "+15% electric",
 	"monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -273,9 +273,9 @@
     "default": "mon_zombie",
     "//": "+15% fat",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -284,9 +284,9 @@
 	
     "name": "GROUP_PUBLICWORKERS",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -296,9 +296,9 @@
 	
     "//": "10% chance of a zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -308,9 +308,9 @@
 	
     "//": "School monster spawns.",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -319,9 +319,9 @@
 	
     "name": "GROUP_CHURCH_ZOMBIE",
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -330,9 +330,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -341,9 +341,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -352,9 +352,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -363,9 +363,9 @@
 	
     "name": "GROUP_MANSION_SEX_LAIR",
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -374,9 +374,9 @@
 	
     "name": "GROUP_MANSION_POOL",
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -386,13 +386,13 @@
     "default": "mon_zombie",
     "//": "Hospital monster spawns. Same as GROUP_ZOMBIE, but without Z-dogs + 20% medical",
     "monsters": [
-      { "monster" : "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster" : "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster" : "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster" : "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster" : "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster" : "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster" : "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster" : "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -401,9 +401,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -412,9 +412,9 @@
 	
     "name": "GROUP_ZOMBIE_SEXSHOP_A",
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -423,9 +423,9 @@
     "default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -434,9 +434,9 @@
     "type": "monstergroup",
 	
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -445,9 +445,9 @@
     "type": "monstergroup",
 	
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -456,9 +456,9 @@
     "default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -467,9 +467,9 @@
     "type": "monstergroup",
 	
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -479,9 +479,9 @@
 	
     "//": "Zombies/ferals that could be found on a diving related place.",
     "monsters": [
-      { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] }
+      { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] }
     ]
   },
   {
@@ -491,9 +491,9 @@
 	
     "//": "Zombies/ferals that could be found on the beach/riverside.",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -502,9 +502,9 @@
     "type": "monstergroup",
 	
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -514,9 +514,9 @@
     "//": "Civilians/Normal people that died, represents a lot of different common professions.  No children or dogs.",
     "type": "monstergroup",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -526,9 +526,9 @@
     "//": "Civilians/Normal people that died, represents a lot of different common professions.  No children, dogs or ferals.",
     "type": "monstergroup",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   },
   {
@@ -537,9 +537,9 @@
 	
     "type": "monstergroup",
     "monsters": [
-      { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] },
-	  { "monster": "mon_gfl_free_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [1,2] },
-	  { "monster": "mon_gfl_ripper", "weight": 62, "cost_multiplier": 2, "pack_size": [3,3] }
+      { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] },
+	  { "monster": "mon_gfl_brute", "weight": 59, "cost_multiplier": 2, "pack_size": [1,2] },
+	  { "monster": "mon_gfl_ripper", "weight": 59, "cost_multiplier": 2, "pack_size": [3,3] }
     ]
   }
 ]

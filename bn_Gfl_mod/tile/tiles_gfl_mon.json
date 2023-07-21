@@ -16,60 +16,96 @@
   ],
   "tile_info": [
     {
-      "height": 32,
-      "width": 32
+      "height": 48,
+      "width": 48
     }
   ],
   "tiles-new": [
     {
-      "file": "tile/gflsf_normal.png",
-	  "sprite_width":32,
-   	  "sprite_height":32,
+      "file": "tile/gfl_big.png",
+	  "sprite_width":48,
+   	  "sprite_height":48,
+	  "sprite_offset_x":-8,
+	  "sprite_offset_y":-16,
       "tiles": 
       [				
 		{ "id": "mon_gfl_ripper",
           "fg": [
-		    { "weight": 1, "sprite": 2 },
-			{ "weight": 1, "sprite": 3 },
-			{ "weight": 1, "sprite": 4 }
-		] },	
-		{ "id": "broken_gfl_ripper",   
-		  "fg": [
-		    { "weight": 1, "sprite": 5 } ],
-		      "rotates": false
-		},
+		    { "weight": 1, "sprite": 0 }
+		] },
 		{ "id": "corpse_mon_gfl_ripper",   
 		  "fg": [
-		    { "weight": 1, "sprite": 5 } ],
-		      "rotates": false
-		},
-		
-		{ "id": "mon_gfl_free_ripper",
-          "fg": [
-		    { "weight": 1, "sprite": 2 },
-			{ "weight": 1, "sprite": 3 },
-			{ "weight": 1, "sprite": 4 }
-		] },	
-		{ "id": "broken_gfl_free_ripper",   
-		  "fg": [
-		    { "weight": 1, "sprite": 5 } ],
-		      "rotates": false
-		},
-		{ "id": "corpse_mon_gfl_free_ripper",   
-		  "fg": [
-		    { "weight": 1, "sprite": 5 } ],
+		    { "weight": 1, "sprite": 1 } ],
 		      "rotates": false
 		},
 		
 		{ "id": "bot_gfl_ripper",
           "fg": [
-		    { "weight": 1, "sprite": 2 },
-			{ "weight": 1, "sprite": 3 },
-			{ "weight": 1, "sprite": 4 }
+		    { "weight": 1, "sprite": 0 }
 		] },
 		{ "id": "corpse_bot_gfl_ripper",   
 		  "fg": [
+		    { "weight": 1, "sprite": 1 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "mon_gfl_vespid",
+          "fg": [
+		    { "weight": 1, "sprite": 2 }
+		] },
+		{ "id": "corpse_mon_gfl_vespid",   
+		  "fg": [
+		    { "weight": 1, "sprite": 3 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "bot_gfl_vespid",
+          "fg": [
+		    { "weight": 1, "sprite": 2 }
+		] },
+		{ "id": "corpse_bot_gfl_vespid",   
+		  "fg": [
+		    { "weight": 1, "sprite": 3 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "mon_gfl_brute",
+          "fg": [
+		    { "weight": 1, "sprite": 4 }
+		] },
+		{ "id": "corpse_mon_gfl_brute",   
+		  "fg": [
 		    { "weight": 1, "sprite": 5 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "bot_gfl_brute",
+          "fg": [
+		    { "weight": 1, "sprite": 4 }
+		] },
+		{ "id": "corpse_bot_gfl_brute",   
+		  "fg": [
+		    { "weight": 1, "sprite": 5 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "mon_gfl_guard",
+          "fg": [
+		    { "weight": 1, "sprite": 6 }
+		] },
+		{ "id": "corpse_mon_gfl_guard",   
+		  "fg": [
+		    { "weight": 1, "sprite": 7 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "bot_gfl_guard",
+          "fg": [
+		    { "weight": 1, "sprite": 6 }
+		] },
+		{ "id": "corpse_bot_gfl_guard",   
+		  "fg": [
+		    { "weight": 1, "sprite": 7 } ],
 		      "rotates": false
 		}
       ]		

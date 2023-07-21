@@ -1,17 +1,17 @@
 [
   {
     "type": "AMMO",
-    "id": "rparticle",
+    "id": "sfparticle",
     "price": 20,
     "price_postapoc": 1000,
-    "name": { "str": "rippergun particle" },
+    "name": { "str": "sfparticle" },
     "symbol": "=",
     "color": "pink",
     "description": "Not yet..",
     "material": [ "steel", "powder" ],
     "volume": "250 ml",
     "weight": "18 g",
-    "ammo_type": "rparticle",
+    "ammo_type": "sfparticle",
     "damage": { "damage_type": "bullet", "amount": 2, "armor_penetration": 20 },
     "range": 3,
     "count": 30,
@@ -25,8 +25,8 @@
   },
   {
     "type": "ammunition_type",
-    "id": "rparticle",
-    "name": "rippergun particle",
-    "default": "rparticle"
+    "id": "sfparticle",
+    "name": "sfparticle",
+    "default": "sfparticle"
   }
 ]
